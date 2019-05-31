@@ -6,4 +6,5 @@ four  modify
 sixth modify
 test git commit filename -m"description"  add   in stage
 modify  no add
-Creating a new branch is quick and simple. 
+Creating a new branch is quick and simple.
+test  mode
