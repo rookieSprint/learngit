@@ -1,2 +1,2 @@
-hello git 
-bug fixed.
+   hello git 	
+   bug fixed.
