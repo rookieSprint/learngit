@@ -10,3 +10,5 @@ Creating a new branch is quick and simple.
 test  mode
 test bug branch.
 remote test
+AAAAAAAAAAAAA
+eclipse modify SSH  test native git push
