@@ -12,3 +12,4 @@ test bug branch.
 remote test
 AAAAAAAAAAAAA
 eclipse modify SSH  test native git push
+eclipse SSH  git  push
